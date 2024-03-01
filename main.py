@@ -54,7 +54,7 @@ def monitor_website(url, interval=300):
         time.sleep(interval)
 
 # URL to monitor
-url = 'https://anonymsms.com/'
+url = 'https://bac96839-6a93-427d-b4f7-9af1cc638e49-00-7z585xalbq4s.pike.replit.dev/'
 
 # Start monitoring with a check every 5 minutes (300 seconds)
 monitor_website(url, 10)
