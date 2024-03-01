@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 import time
 import hashlib
 
-keep_alive()
-
 # Telegram Bot API URL and your bot token
 TELEGRAM_API_URL = "https://api.telegram.org/bot"
 BOT_TOKEN = "6505638593:AAEsWBviZ0dpzeyiCYk-Ga4y33RX0BOnzJY"
